@@ -7,21 +7,29 @@
 
 ---
 
-![Dashboard Screenshot](images/img1.png)
-![Dashboard Screenshot](images/img2.png)
+### Allowing RDP
+
 ![Dashboard Screenshot](images/img6.png)
 ![Dashboard Screenshot](images/img7.png)
 ![Dashboard Screenshot](images/img8.png)
 ![Dashboard Screenshot](images/img9.png)
 ![Dashboard Screenshot](images/img10.png)
 ![Dashboard Screenshot](images/img11.png)
+
+---
+---
+---
+
+### Blocking HTTP
+Blocking any unsecured website under port 80.
 ![Dashboard Screenshot](images/img12.png)
-![Dashboard Screenshot](images/img13.png)
 ![Dashboard Screenshot](images/img14.png)
 ![Dashboard Screenshot](images/img15.png)
 ![Dashboard Screenshot](images/img16.png)
+
+---
+---
+---
+
+### The Finished Products
 ![Dashboard Screenshot](images/img17.png)
-![Dashboard Screenshot](images/img18.png)
-![Dashboard Screenshot](images/img19.png)
-![Dashboard Screenshot](images/img20.png)
-![Dashboard Screenshot](images/img21.png)
