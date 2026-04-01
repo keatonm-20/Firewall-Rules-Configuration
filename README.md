@@ -7,7 +7,8 @@
 
 ---
 
-### Allowing RDP<br><br>
+### Allowing RDP
+Making a new rule in Windows Defender<br><br>
 ![Dashboard Screenshot](images/img6.png)
 ![Dashboard Screenshot](images/img7.png)
 ![Dashboard Screenshot](images/img8.png)
